@@ -1,15 +1,5 @@
 //Programa .h que se define en el archivo .c de la tabla de tipos
 //Autores:
-/*
- -Castilla Velazquez Erik Omar
- -Garciarebollo Rojas Diego Iñaki
- -Salazar Aguilar Manuel
- -Vilchis Testas Edgar Guillermo
-*/
-
-//Fecha de creación: 1/11/2019
-//Ultima modificación: 1/11/2019
-
 
 #ifndef TABLATIPOS_H
 #define TABLATIPOS_H
