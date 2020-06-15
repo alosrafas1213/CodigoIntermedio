@@ -1,16 +1,6 @@
 //Archivo .h que define a los apuntadores para crear la cuádrupla
 //Definición dirigida por sintaxis / Esquema de traducción
 
-//Autores:
-/*
- -Castilla Velazquez Erik Omar
- -Garciarebollo Rojas Diego Iñaki
- -Salazar Aguilar Manuel
- -Vilchis Testas Edgar Guillermo
-*/
-
-//Fecha de creación: 15/11/2019
-//Ultima modificación: 21/11/2019
 
 #ifndef QUAD_H
 #define QUAD_H
